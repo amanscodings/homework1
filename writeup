@@ -1,0 +1,4 @@
+To appoach this assignment, I did it in a simple way for asking user input first for both codes. Then I coded a line with a reverse where
+it would check back to back if the word matches. If it matched, then its a palindrome, but if not, then its not a palindrome.
+When the code reverses and it would check that word by word meet eqaully, then I stated coded that true should be returned, otherwise 
+if it doesnt match, then it would say not a palidrome. Then it check if the reverse equals and thats how the put would be determined.
